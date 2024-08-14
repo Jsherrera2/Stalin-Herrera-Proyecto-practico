@@ -1,0 +1,1 @@
+Este es el proyecto final del curso de Git, en el cual se implantará todos los conocimientos obtenidos a lo largo del mismo.
